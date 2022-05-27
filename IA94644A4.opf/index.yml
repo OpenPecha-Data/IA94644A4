@@ -1,0 +1,9 @@
+id: df0d1387ff914755b220fe37702b2243
+annotation_type: index
+revision: '00001'
+annotations:
+  36e31659cbcb4307a380fa7868cdca73:
+    base: f1536.txt
+    span:
+      start: 0
+      end: 93
